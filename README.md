@@ -36,7 +36,13 @@ http://winebottler.kronenberg.org/downloads
 curl https://sdk.cloud.google.com | bash
 ```
 
-## aws-cli https://github.com/aws/aws-cli
+## aws-cli
+* https://github.com/aws/aws-cli
+```
 pip install awscli
 pip install --upgrade awscli
 aws configure
+```
+
+## Discord
+https://discordapp.com/api/download?platform=osx
