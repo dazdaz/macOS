@@ -15,18 +15,19 @@ https://www.iterm2.com/downloads.html
 
 ```
 $ brew list| sort | tr '\n' ' '
-aws-shell azure-cli convertlit freetype gdbm ghostscript go htop imagemagick jpeg libao libevent libpng libtiff libtommath \
+azure-cli convertlit freetype gdbm ghostscript go htop imagemagick jpeg libao libevent libpng libtiff libtommath \
 libtool little-cms2 mas openssl p7zip pkg-config python python3 qpdf readline sphinx-doc sqlite tmux uade wget xz
 ```
 
 ## Install software via App Store using a command-line based tool
-$ mas install 470158793 777221999 803453959
-
+```
 $ mas install 470158793 777221999 803453959 1278508951
 # 470158793 Keka (1.0.15)
 # 777221999 NewFileHere (2.4)
 # 803453959 Slack (3.1.1)
 # 1278508951 Trello (2.10.3)
+```
+
 ## WineBottler
 http://winebottler.kronenberg.org/downloads
 
