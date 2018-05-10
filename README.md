@@ -11,6 +11,9 @@ https://www.iterm2.com/downloads.html
 ## Sublime
 https://www.sublimetext.com/
 
+## Visual Studio Code
+https://code.visualstudio.com/docs/?dv=osx
+
 ## Homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
