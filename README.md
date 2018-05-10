@@ -8,6 +8,9 @@ https://www.google.com/chrome/
 ## iTerm2
 https://www.iterm2.com/downloads.html
 
+## Sublime
+https://www.sublimetext.com/
+
 ## Homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
