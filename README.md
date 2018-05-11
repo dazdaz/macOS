@@ -14,6 +14,10 @@ https://www.sublimetext.com/
 ## Visual Studio Code
 https://code.visualstudio.com/docs/?dv=osx
 
+## Docker for Mac (Community Edition) Swarm + Kubernetes
+http://collabnix.com/top-5-exclusive-features-of-docker-for-mac-that-you-cant-afford-to-miss/
+https://store.docker.com/editions/community/docker-ce-desktop-mac
+
 ## Homebrew
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
